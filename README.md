@@ -1,6 +1,6 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
 
-Nmae:Dharshini
+Name:Dharshini S
 
 Reg No:212224040074
 
